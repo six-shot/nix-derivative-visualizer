@@ -1,1 +1,3 @@
 nixos.qcow2
+config.bat
+node_modules
